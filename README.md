@@ -1,23 +1,23 @@
-# 🏠 House Price Prediction using Machine Learning
+# House Price Prediction using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 
 This project predicts house prices based on various features such as **area, location, number of bedrooms, bathrooms, and building type** using **regression techniques**.
 It also includes a **web application** where users can input details and get predicted prices instantly.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 📊 Predict house prices using ML model
-* 🧠 Regression-based prediction (Linear Regression / Advanced models)
-* 🌐 User-friendly web interface using Flask
-* 📍 Supports multiple features like area, zones, house type
-* ⚡ Real-time prediction
+* Predict house prices using ML model
+* Regression-based prediction (Linear Regression / Advanced models)
+* User-friendly web interface using Flask
+* Supports multiple features like area, zones, house type
+* Real-time prediction
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Programming Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-learn
@@ -27,7 +27,7 @@ It also includes a **web application** where users can input details and get pre
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 House-Price-Prediction/
@@ -49,7 +49,7 @@ House-Price-Prediction/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * The dataset contains:
 
@@ -63,36 +63,36 @@ House-Price-Prediction/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1 Clone the repository
 
 ```bash
 git clone https://github.com/Amrutha3690/house-price-prediction.git
 cd house-price-prediction
 ```
 
-### 2️⃣ Install dependencies
+### 2 Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Train the model
+### 3️ Train the model
 
 ```bash
 cd model
 python train_model.py
 ```
 
-### 4️⃣ Run the application
+### 4️ Run the application
 
 ```bash
 cd ../app
 python app.py
 ```
 
-### 5️⃣ Open in browser
+### 5️ Open in browser
 
 ```
 http://127.0.0.1:5000/
@@ -100,7 +100,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 The project can be deployed using platforms like:
 
@@ -110,7 +110,7 @@ The project can be deployed using platforms like:
 
 ---
 
-## 📸 Screenshots (Optional)
+## Screenshots
 
 ### 🔹 Web Interface UI
 ![App Screenshot](screenshots/ui.png)
@@ -131,7 +131,7 @@ The project can be deployed using platforms like:
 
 ## 👩‍💻 Author
 
-**Amrutha R V Uppuganti**
+**Amrutha R V Uppuganti** 
 B.Tech CSE (Data Science)
 
 ---
