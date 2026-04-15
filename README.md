@@ -1,5 +1,7 @@
 # House Price Prediction using Machine Learning
 
+Live Demo: https://your-app-link.onrender.com
+
 ## Project Overview
 
 This project predicts house prices based on various features such as **area, location, number of bedrooms, bathrooms, and building type** using **regression techniques**.
@@ -36,10 +38,10 @@ House-Price-Prediction/
 │
 │── model/
 │   └── train_model.py
-│   └── model.pkl
 │
 │── app/
 │   ├── app.py
+│   └── model.pkl
 │   └── templates/
 │       └── index.html
 │
